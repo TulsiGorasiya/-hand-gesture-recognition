@@ -1,6 +1,6 @@
 import cv2
 import mediapipe as mp
-
+# add variable
 mpHands = mp.solutions.hands
 Hands = mpHands.Hands()
 mpDraw = mp.solutions.drawing_utils
